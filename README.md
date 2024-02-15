@@ -1,7 +1,6 @@
 # KÍCH HOẠT OFFICE MỌI PHIÊN BẢN BẰNG TOOL VÀ CMD #
 Kích hoạt Office 2010, 2013, 2016, 2019, 2021, Office 365 Mondo, Office 365 Enterprise, Office 365 Prolus.
 
-![IMG_1674314482411_1674314628494](https://user-images.githubusercontent.com/82578024/231743414-b21c5a56-bd56-4cae-912e-244a9afd470f.jpg)
 
 ## Trang chủ của kích hoạt cmd [bấm vào đây](https://msguides.com/install-office-multilanguage) ##
   - [Kích hoạt Office 365 Mondo](https://github.com/BsNgChiThanh/Kich-hoat-Office/blob/KichHoatOffice/Active%20Office%20365%20Mondo.txt)
@@ -239,4 +238,3 @@ cscript ospp.vbs /act
 ## [CÔNG CỤ GỞ OFFICE TRIỆT ĐỂ CỦA MICROSOFT](https://1drv.ms/u/s!AmvuvqBBIcK6h09dzWtFvLhdCmQI?e=Vd4IZ8) hoặc bấm [vào đây để download](https://github.com/BsNgChiThanh/Kich-hoat-Office/blob/KichHoatOffice/SetupProd_OffScrub-G%E1%BB%9F%20office%20tri%E1%BB%87t%20%C4%91%E1%BB%83%20c%E1%BB%A7a%20Microsoft.exe)
 ### Chúc thành công! ###
 
-**[Chia sẽ địa điểm trên Google map](https://goo.gl/maps/ZAzVMCgx4S4X4A55A)**
